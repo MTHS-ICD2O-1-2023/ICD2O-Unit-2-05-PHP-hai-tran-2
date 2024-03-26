@@ -44,7 +44,7 @@
           // output
           echo "The salary is: $" . $payAfterTax;
           echo "<br />";
-          echo "The goverment will take: $" . $tax;
+          echo "The government will take: $" . $tax;
           ?>
         </div>
       </div>
